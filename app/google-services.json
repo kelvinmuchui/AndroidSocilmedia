@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "183458705531",
+    "firebase_url": "https://chatappsdemo1.firebaseio.com",
+    "project_id": "chatappsdemo1",
+    "storage_bucket": "chatappsdemo1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183458705531:android:0b4dcc4bcde6482d",
+        "android_client_info": {
+          "package_name": "com.example.kelvin.trackchild"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183458705531-7ih903ulqe6p5fg4ug77s3ldpl3jspf5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kelvin.trackchild",
+            "certificate_hash": "51368c541105d5ab0bb110a00c15870718889847"
+          }
+        },
+        {
+          "client_id": "183458705531-ki8qaf66a5ho5abp8g2llqs9bqfjr91f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6L21Bow2n4Eh7iXNu4xyWeTLG2g8TzgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183458705531-ki8qaf66a5ho5abp8g2llqs9bqfjr91f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183458705531:android:23354a9fbc66e2a5",
+        "android_client_info": {
+          "package_name": "com.example.savelife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183458705531-ti07cv5tet0at7qirh1kb2t1537gj0it.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.savelife",
+            "certificate_hash": "f3b56d983460bcbb396e99ce4449afb200daff04"
+          }
+        },
+        {
+          "client_id": "183458705531-ki8qaf66a5ho5abp8g2llqs9bqfjr91f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6L21Bow2n4Eh7iXNu4xyWeTLG2g8TzgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183458705531-ki8qaf66a5ho5abp8g2llqs9bqfjr91f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183458705531:android:42ebb5f16e945fed3932de",
+        "android_client_info": {
+          "package_name": "com.kelvin.socialMedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183458705531-b60194se3kl4lihrcj372cjp4qbs672v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kelvin.socialMedia",
+            "certificate_hash": "555dfec1b9f8c1d7cfa3cfe8b88e70e6771765b7"
+          }
+        },
+        {
+          "client_id": "183458705531-ki8qaf66a5ho5abp8g2llqs9bqfjr91f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6L21Bow2n4Eh7iXNu4xyWeTLG2g8TzgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183458705531-ki8qaf66a5ho5abp8g2llqs9bqfjr91f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183458705531:android:d5f003fcf54d43e8",
+        "android_client_info": {
+          "package_name": "com.tutorial.chatapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183458705531-md4e10h2vvrkn44a8moorrod687d99a0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tutorial.chatapps",
+            "certificate_hash": "68026ecd9708048552e99a5b0b8d8e3b43383fc9"
+          }
+        },
+        {
+          "client_id": "183458705531-ki8qaf66a5ho5abp8g2llqs9bqfjr91f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6L21Bow2n4Eh7iXNu4xyWeTLG2g8TzgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183458705531-ki8qaf66a5ho5abp8g2llqs9bqfjr91f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
